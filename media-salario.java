@@ -1,3 +1,6 @@
+/*  Programa que calcula a média de salários de quatro funcionários de uma empresa, 
+informando nas variáveis os valores dos salários. */
+
 import java.util.Scanner;
 
 public class Principal {
