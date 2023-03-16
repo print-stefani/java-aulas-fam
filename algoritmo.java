@@ -1,4 +1,6 @@
-
+/*Programa de Algoritmo que leia dois valores inteiros A e B. Se A for maior que B, 
+o programa deverá calcular a diferença A-B e se B for maior que a o programa deverá
+informar a diferença B-A e caso A for igual a B, o programa deverá se somar os dois. */
 
 import java.util.Scanner;
 
